@@ -1,0 +1,426 @@
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\ResolveAssemblyReference.cache
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\About.aspx
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Default.aspx
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Global.asax
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Site.Master
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Web.config
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Account\ChangePassword.aspx
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Account\ChangePasswordSuccess.aspx
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Account\Login.aspx
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Account\Register.aspx
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Account\Web.config
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.AccessControl.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Analytics.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Apps.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Blogger.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Calendar.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Client.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.CodeSearch.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Contacts.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Documents.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Extensions.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.GoogleBase.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Health.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Photos.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Spreadsheets.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.YouTube.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\WebRole1.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\WebRole1.pdb
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Scripts\jquery-1.4.1-vsdoc.js
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Scripts\jquery-1.4.1.js
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Scripts\jquery-1.4.1.min.js
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Styles\Site.css
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\RuntimeSetup.Manifest
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\Diagnostics.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\msshrtmi.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\mswasr.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\WaHostBootstrapper.exe
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\WaWebHost.exe
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\WaWorkerHost.exe
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\EtwListener.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\FileListener.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonAgent.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonAgentHost.exe
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonEvents.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonNetTransport.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonQuery.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonTables.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\secutil.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\SysCounterListener.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\SystemEventsListener.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\ma.xsd
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\MaStatic.xsd
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\query.xsd
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\QueryTableResponse.xsd
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\shared.xsd
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\storage\simulation\x86\CloudDrive.dll
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\__entrypoint.txt
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\web.config
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\RoleModel.xml
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\ServiceDefinition.rd
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\ServiceDefinition.rdsc
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\AzureLast.csx\ServiceDefinition.csdef
+D:\Official\Projects\AzureLast\AzureLast\bin\Debug\ServiceConfiguration.cscfg
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\About.aspx
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\Account\ChangePassword.aspx
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\Account\ChangePasswordSuccess.aspx
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\Account\Login.aspx
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\Account\Register.aspx
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\Account\Web.config
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.AccessControl.dll
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Analytics.dll
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Apps.dll
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Blogger.dll
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Calendar.dll
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Client.dll
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.CodeSearch.dll
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Contacts.dll
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Documents.dll
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Extensions.dll
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.GoogleBase.dll
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Health.dll
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Photos.dll
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Spreadsheets.dll
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.YouTube.dll
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\WebRole1.dll
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\bin\WebRole1.pdb
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\Default.aspx
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\Global.asax
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\Scripts\jquery-1.4.1-vsdoc.js
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\Scripts\jquery-1.4.1.js
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\Scripts\jquery-1.4.1.min.js
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\Site.Master
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\Styles\Site.css
+D:\Official\Projects\AzureLast\AzureLast\obj\Debug\WebRole1\Web.config
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\About.aspx
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Default.aspx
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Global.asax
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Site.Master
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Web.config
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Account\ChangePassword.aspx
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Account\ChangePasswordSuccess.aspx
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Account\Login.aspx
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Account\Register.aspx
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Account\Web.config
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.AccessControl.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Analytics.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Apps.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Blogger.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Calendar.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Client.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.CodeSearch.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Contacts.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Documents.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Extensions.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.GoogleBase.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Health.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Photos.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Spreadsheets.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.YouTube.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\WebRole1.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\WebRole1.pdb
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Scripts\jquery-1.4.1-vsdoc.js
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Scripts\jquery-1.4.1.js
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Scripts\jquery-1.4.1.min.js
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\Styles\Site.css
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\RuntimeSetup.Manifest
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\Diagnostics.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\msshrtmi.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\mswasr.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\WaHostBootstrapper.exe
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\WaWebHost.exe
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\WaWorkerHost.exe
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\EtwListener.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\FileListener.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonAgent.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonAgentHost.exe
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonEvents.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonNetTransport.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonQuery.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonTables.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\secutil.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\SysCounterListener.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\SystemEventsListener.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\ma.xsd
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\MaStatic.xsd
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\query.xsd
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\QueryTableResponse.xsd
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\shared.xsd
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\storage\simulation\x86\CloudDrive.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\__entrypoint.txt
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\web.config
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\RoleModel.xml
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\ServiceDefinition.rd
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\ServiceDefinition.rdsc
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\ServiceDefinition.csdef
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\bin\Debug\ServiceConfiguration.cscfg
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\ResolveAssemblyReference.cache
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\About.aspx
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\Account\ChangePassword.aspx
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\Account\ChangePasswordSuccess.aspx
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\Account\Login.aspx
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\Account\Register.aspx
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\Account\Web.config
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.AccessControl.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Analytics.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Apps.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Blogger.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Calendar.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Client.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.CodeSearch.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Contacts.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Documents.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Extensions.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.GoogleBase.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Health.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Photos.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Spreadsheets.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.YouTube.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\WebRole1.dll
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\WebRole1.pdb
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\Default.aspx
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\Global.asax
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\Scripts\jquery-1.4.1-vsdoc.js
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\Scripts\jquery-1.4.1.js
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\Scripts\jquery-1.4.1.min.js
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\Site.Master
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\Styles\Site.css
+D:\Official\Backup Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\Web.config
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\ServiceConfiguration.cscfg
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.AccessControl.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Analytics.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Apps.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Blogger.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Calendar.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Client.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.CodeSearch.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Contacts.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Documents.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Extensions.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.GoogleBase.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Health.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Photos.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Spreadsheets.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.YouTube.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.xml
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.xml
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\WebRole1.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\WebRole1.pdb
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\RuntimeSetup.Manifest
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\Diagnostics.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\IISConfigurator.exe
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\msshrtmi.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\mswasr.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\mswasri.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\WaHostBootstrapper.exe
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\WaIISHost.exe
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\WaRuntimeProxy.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\WaWebHost.exe
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\WaWorkerHost.exe
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\EtwListener.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\FileListener.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonAgent.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonAgentHost.exe
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonDiagnostics.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonEvents.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonNetTransport.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonQuery.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonTables.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\secutil.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\SysCounterListener.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\SystemEventsListener.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\ma.xsd
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\maStatic.xsd
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\query.xsd
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\shared.xsd
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\storage\simulation\x86\CloudDrive.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\__entrypoint.txt
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\WaIISHost.exe.config
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\RoleModel.xml
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\ServiceDefinition.build.rd
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\ServiceDefinition.build.rdsc
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\ServiceDefinition.build.csdef
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\ResolveAssemblyReference.cache
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.AccessControl.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Analytics.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Apps.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Blogger.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Calendar.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Client.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.CodeSearch.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Contacts.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Documents.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Extensions.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.GoogleBase.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Health.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Photos.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Spreadsheets.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.YouTube.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\WebRole1.dll
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\WebRole1.pdb
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.AccessControl.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Analytics.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Apps.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Blogger.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Calendar.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Client.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.CodeSearch.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Contacts.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Documents.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Extensions.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.GoogleBase.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Health.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Photos.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Spreadsheets.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.YouTube.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.AccessControl.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Analytics.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Apps.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Blogger.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Calendar.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Client.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.CodeSearch.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Contacts.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Documents.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Extensions.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.GoogleBase.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Health.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Photos.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Spreadsheets.dll.refresh
+E:\Officials\Gopal Patel\AzureLast\AzureLast\obj\Debug\WebRole1\bin\Google.GData.YouTube.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\ServiceConfiguration.cscfg
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.AccessControl.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Analytics.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Apps.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Blogger.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Calendar.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Client.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.CodeSearch.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Contacts.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Documents.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Extensions.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.GoogleBase.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Health.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Photos.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Spreadsheets.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.YouTube.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.Diagnostics.xml
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Microsoft.WindowsAzure.StorageClient.xml
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\WebRole1.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\WebRole1.pdb
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\RuntimeSetup.Manifest
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\Diagnostics.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\IISConfigurator.exe
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\msshrtmi.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\mswasr.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\mswasri.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\WaHostBootstrapper.exe
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\WaIISHost.exe
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\WaRuntimeProxy.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\WaWebHost.exe
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\WaWorkerHost.exe
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\EtwListener.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\FileListener.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonAgent.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonAgentHost.exe
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonDiagnostics.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonEvents.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonNetTransport.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonQuery.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\MonTables.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\secutil.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\SysCounterListener.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\SystemEventsListener.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\ma.xsd
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\maStatic.xsd
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\query.xsd
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\diagnostics\x86\monitor\schema\1.0\shared.xsd
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\storage\simulation\x86\CloudDrive.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\__entrypoint.txt
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\base\x86\WaIISHost.exe.config
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\RoleModel.xml
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\ServiceDefinition.build.rd
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\ServiceDefinition.build.rdsc
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\ServiceDefinition.build.csdef
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\ResolveAssemblyReference.cache
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.AccessControl.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Analytics.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Apps.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Blogger.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Calendar.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Client.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.CodeSearch.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Contacts.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Documents.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Extensions.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.GoogleBase.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Health.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Photos.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Spreadsheets.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.YouTube.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\WebRole1.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\WebRole1.pdb
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\FileHelpers.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\FileHelpers.ExcelStorage.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\MySql.Data.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\FileHelpers.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\FileHelpers.ExcelStorage.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\MySql.Data.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.AccessControl.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Analytics.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Apps.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Blogger.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Calendar.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Client.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.CodeSearch.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Contacts.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Documents.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Extensions.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.GoogleBase.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Health.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Photos.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.Spreadsheets.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\bin\Debug\AzureLast.csx\roles\WebRole1\approot\bin\Google.GData.YouTube.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.AccessControl.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Analytics.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Apps.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Blogger.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Calendar.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Client.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.CodeSearch.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Contacts.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Documents.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Extensions.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.GoogleBase.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Health.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Photos.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.Spreadsheets.dll.refresh
+E:\Officials\Gopal Patel\AzureLast - Copy\AzureLast\obj\Debug\WebRole1\bin\Google.GData.YouTube.dll.refresh

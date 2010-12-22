@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="searchresults" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=rsnisiwak2.database.windows.net;Initial Catalog=searchresults;User ID=Weunitedev01@rsnisiwak2" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="searchresultsConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tbamazon" Member="tbamazons">
+    <Type Name="tbamazon">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="keywordid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="title" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="price" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="imageid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbebay" Member="tbebays">
+    <Type Name="tbebay">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="kewordid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="title" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="price" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="priceUnit" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="imageid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbgoogle" Member="tbgoogles">
+    <Type Name="tbgoogle">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="keywordid" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="title" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="price" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="priceunit" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="marchantname" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="imageid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbimage" Member="tbimages">
+    <Type Name="tbimage">
+      <Column Name="imageid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="imageurlsmall" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="imageurlmedium" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="imageurllarge" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="imagekeywordid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbsearch" Member="tbsearches">
+    <Type Name="tbsearch">
+      <Column Name="keywordid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="searchkeyword" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.insertsearch" Method="insertsearch">
+    <Parameter Name="keyword" Type="System.String" DbType="NVarChar(100)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.saveimage" Method="saveimage">
+    <Parameter Name="small" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="medium" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="large" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="keywordid" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

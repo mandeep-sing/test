@@ -1,0 +1,39 @@
+D:\Official\Projects\AzureLast\WebRole1\obj\Debug\ResolveAssemblyReference.cache
+D:\Official\Projects\AzureLast\WebRole1\bin\WebRole1.dll
+D:\Official\Projects\AzureLast\WebRole1\bin\WebRole1.pdb
+D:\Official\Projects\AzureLast\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\Official\Projects\AzureLast\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\Official\Projects\AzureLast\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\Official\Projects\AzureLast\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\Official\Projects\AzureLast\WebRole1\obj\Debug\WebRole1.dll
+D:\Official\Projects\AzureLast\WebRole1\obj\Debug\WebRole1.pdb
+D:\Official\Backup Gopal Patel\AzureLast\WebRole1\bin\WebRole1.dll
+D:\Official\Backup Gopal Patel\AzureLast\WebRole1\bin\WebRole1.pdb
+D:\Official\Backup Gopal Patel\AzureLast\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\Official\Backup Gopal Patel\AzureLast\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\Official\Backup Gopal Patel\AzureLast\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\Official\Backup Gopal Patel\AzureLast\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\Official\Backup Gopal Patel\AzureLast\WebRole1\obj\Debug\ResolveAssemblyReference.cache
+D:\Official\Backup Gopal Patel\AzureLast\WebRole1\obj\Debug\WebRole1.dll
+D:\Official\Backup Gopal Patel\AzureLast\WebRole1\obj\Debug\WebRole1.pdb
+E:\Officials\Gopal Patel\AzureLast\WebRole1\bin\WebRole1.dll
+E:\Officials\Gopal Patel\AzureLast\WebRole1\bin\WebRole1.pdb
+E:\Officials\Gopal Patel\AzureLast\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\Officials\Gopal Patel\AzureLast\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+E:\Officials\Gopal Patel\AzureLast\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+E:\Officials\Gopal Patel\AzureLast\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+E:\Officials\Gopal Patel\AzureLast\WebRole1\obj\Debug\ResolveAssemblyReference.cache
+E:\Officials\Gopal Patel\AzureLast\WebRole1\obj\Debug\WebRole1.dll
+E:\Officials\Gopal Patel\AzureLast\WebRole1\obj\Debug\WebRole1.pdb
+E:\Officials\Gopal Patel\AzureLast - Copy\WebRole1\bin\WebRole1.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\WebRole1\bin\WebRole1.pdb
+E:\Officials\Gopal Patel\AzureLast - Copy\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+E:\Officials\Gopal Patel\AzureLast - Copy\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+E:\Officials\Gopal Patel\AzureLast - Copy\WebRole1\obj\Debug\ResolveAssemblyReference.cache
+E:\Officials\Gopal Patel\AzureLast - Copy\WebRole1\obj\Debug\WebRole1.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\WebRole1\obj\Debug\WebRole1.pdb
+E:\Officials\Gopal Patel\AzureLast - Copy\WebRole1\bin\FileHelpers.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\WebRole1\bin\FileHelpers.ExcelStorage.dll
+E:\Officials\Gopal Patel\AzureLast - Copy\WebRole1\bin\MySql.Data.dll
